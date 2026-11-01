@@ -1,0 +1,109 @@
+# MIME types (some cPanel hosts serve .css/.js as text/plain)
+<IfModule mod_mime.c>
+  AddType text/css .css
+  AddType application/javascript .js
+  AddType application/json .json
+  AddType font/woff2 .woff2
+</IfModule>
+
+# Enabling compression for better performance
+<IfModule mod_deflate.c>
+  AddOutputFilterByType DEFLATE application/javascript
+  AddOutputFilterByType DEFLATE application/rss+xml
+  AddOutputFilterByType DEFLATE application/vnd.ms-fontobject
+  AddOutputFilterByType DEFLATE application/x-font
+  AddOutputFilterByType DEFLATE application/x-font-opentype
+  AddOutputFilterByType DEFLATE application/x-font-otf
+  AddOutputFilterByType DEFLATE application/x-font-truetype
+  AddOutputFilterByType DEFLATE application/x-font-ttf
+  AddOutputFilterByType DEFLATE application/x-javascript
+  AddOutputFilterByType DEFLATE application/xhtml+xml
+  AddOutputFilterByType DEFLATE application/xml
+  AddOutputFilterByType DEFLATE font/opentype
+  AddOutputFilterByType DEFLATE font/otf
+  AddOutputFilterByType DEFLATE font/ttf
+  AddOutputFilterByType DEFLATE image/svg+xml
+  AddOutputFilterByType DEFLATE image/x-icon
+  AddOutputFilterByType DEFLATE text/css
+  AddOutputFilterByType DEFLATE text/html
+  AddOutputFilterByType DEFLATE text/javascript
+  AddOutputFilterByType DEFLATE text/plain
+  AddOutputFilterByType DEFLATE text/xml
+</IfModule>
+
+# Caching rules
+<IfModule mod_expires.c>
+  ExpiresActive On
+  # Images
+  ExpiresByType image/jpg "access plus 1 year"
+  ExpiresByType image/jpeg "access plus 1 year"
+  ExpiresByType image/gif "access plus 1 year"
+  ExpiresByType image/png "access plus 1 year"
+  ExpiresByType image/webp "access plus 1 year"
+  ExpiresByType image/svg+xml "access plus 1 year"
+  ExpiresByType image/x-icon "access plus 1 year"
+  # CSS, JavaScript
+  ExpiresByType text/css "access plus 1 year"
+  ExpiresByType text/javascript "access plus 1 year"
+  ExpiresByType application/javascript "access plus 1 year"
+  # Fonts
+  ExpiresByType application/vnd.ms-fontobject "access plus 1 year"
+  ExpiresByType application/x-font-ttf "access plus 1 year"
+  ExpiresByType application/x-font-opentype "access plus 1 year"
+  ExpiresByType application/x-font-woff "access plus 1 year"
+  ExpiresByType font/woff2 "access plus 1 year"
+  # Others
+  ExpiresByType application/pdf "access plus 1 month"
+  ExpiresByType text/x-component "access plus 1 month"
+  # Default
+  ExpiresDefault "access plus 2 days"
+</IfModule>
+
+# Security Headers
+<IfModule mod_headers.c>
+  Header set X-XSS-Protection "1; mode=block"
+  Header set X-Frame-Options "SAMEORIGIN"
+  Header set X-Content-Type-Options "nosniff"
+  Header set Referrer-Policy "strict-origin-when-cross-origin"
+  Header set Permissions-Policy "geolocation=(), microphone=(), camera=()"
+</IfModule>
+
+# Redirects (Apache — required for static export; client router does not run on cPanel)
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+
+  # Static assets — never redirect (CSS/JS/images must load)
+  RewriteRule ^next/ - [L]
+  RewriteRule ^assets/ - [L]
+  RewriteRule ^image/ - [L]
+  RewriteRule ^favicon\.ico$ - [L]
+  # Legacy builds that still reference /_next/
+  RewriteRule ^_next/(.*)$ /next/$1 [L]
+
+  # SSL validation (AutoSSL / Let's Encrypt) — must not redirect
+  RewriteRule ^\.well-known/ - [L]
+
+  # Force HTTPS + canonical www host (matches SITE_URL)
+  RewriteCond %{HTTPS} off [OR]
+  RewriteCond %{HTTP_HOST} !^www\.moroccanskincare\.com$ [NC]
+  RewriteRule ^(.*)$ https://www.moroccanskincare.com/$1 [R=301,L]
+
+  # Homepage -> canonical English homepage (HTTP 301, not meta refresh)
+  RewriteRule ^$ /en/moroccan-organic-skincare/ [R=301,L]
+
+  # Locale roots -> full homepage
+  RewriteRule ^en/?$ /en/moroccan-organic-skincare/ [R=301,L]
+  RewriteRule ^fr/?$ /fr/moroccan-organic-skincare/ [R=301,L]
+  RewriteRule ^ar/?$ /ar/moroccan-organic-skincare/ [R=301,L]
+
+  # Legacy paths without /en|fr|ar/
+  RewriteRule ^moroccan-organic-skincare/?$ /en/moroccan-organic-skincare/ [R=301,L]
+  RewriteRule ^about/?$ /en/about/ [R=301,L]
+  RewriteRule ^blog/?$ /en/blog/ [R=301,L]
+  RewriteRule ^contact/?$ /en/contact/ [R=301,L]
+  RewriteRule ^products/?$ /en/products/ [R=301,L]
+  RewriteRule ^private-label/?$ /en/private-label/ [R=301,L]
+</IfModule>
+
+# Custom 404 Page
+ErrorDocument 404 /404.html

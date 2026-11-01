@@ -1,0 +1,1187 @@
+{
+  "metadata": {
+    "title": "Cosmétique Marocain Grossiste | Soins Bio & Marque Blanche en Vrac",
+    "description": "Grossiste de produits de beauté marocains bio pour marques, spas et distributeurs : Huile d'argan en vrac, Savon Noir Beldi, Huile de figue de barbarie, Poudre de Nila, Aker Fassi et cosmétiques sous marque blanche.",
+    "siteName": "Moroccan Skin Care",
+    "keywords": [
+      "cosmetique marocain grossiste",
+      "produits de beaute marocains en gros",
+      "fournisseur cosmetique maroc",
+      "huile argan en vrac maroc",
+      "savon noir beldi grossiste",
+      "huile de figue de barbarie en gros",
+      "poudre de nila maroc grossiste",
+      "fournisseur aker fassi naturel",
+      "argile rhassoul ghassoul en vrac",
+      "marque blanche cosmetique maroc",
+      "export cosmetique marocain bio"
+    ]
+  },
+  "header": {
+    "nav": {
+      "home": "Accueil",
+      "products": "Produits",
+      "privateLabel": "Marque Privée",
+      "about": "À Propos",
+      "blog": "Blog",
+      "contact": "Contact"
+    },
+    "whatsapp": "Discuter sur WhatsApp"
+  },
+  "hero": {
+    "badge": "En direct des coopératives marocaines • 100% Bio Certifié • Grossiste & Marque Blanche",
+    "title": "Grossiste Produits de Beauté Marocains &",
+    "titleHighlight": "Cosmétiques Marque Blanche",
+    "subtitle": "Fournisseur Direct d'Ingrédients en Vrac et Création de Lignes Cosmétiques Clé en Main pour Marques, Spas et Distributeurs",
+    "description": "Approvisionnez-vous en ingrédients cosmétiques marocains 100% purs et certifiés bio : huile d'argan pressée à froid, huile de pépins de figue de barbarie, authentique Savon Beldi, Ghassoul de l'Atlas, poudre de Nila bleue du Sahara et Aker Fassi. Faibles MOQ, documents d'exportation complets (COA/MSDS) et packaging sur mesure.",
+    "cta": "Demander le Catalogue & Tarifs Grossiste",
+    "ctaSecondary": "Découvrir le Vrac & la Marque Blanche",
+    "sampleText": "Recevez des kits d'échantillons avant de passer une commande en volume",
+    "imageAlt": "Grossiste produits cosmétiques marocains bio - huile argan, savon noir, figue de barbarie, nila, aker fassi",
+    "highlights": [
+      "Certifié Bio ECOCERT & USDA",
+      "Approvisionnement Direct Coopératives Féminines",
+      "Packaging Marque Blanche dès Faibles Quantités",
+      "Expédition Express Mondiale (DHL / FedEx 3-5 Jours)"
+    ]
+  },
+  "trustBar": {
+    "badge": "Qualité Certifiée & Conformité Export",
+    "certifications": {
+      "iso": "Conforme ISO 22716 & BPF",
+      "ecocert": "Certifié Bio ECOCERT & USDA",
+      "gmp": "Analysé en Labo (COA & MSDS)",
+      "fda": "Établissement Enregistré Export",
+      "logistics": "Livraison Express Mondiale (DHL/FedEx)",
+      "crueltyFree": "100% Pur & Non Testé sur les Animaux"
+    }
+  },
+  "traditions": {
+    "title": "Découvrez le Cœur des Traditions de Soins Marocains",
+    "paragraphs": [
+      "Le Maroc possède une longue et riche histoire de rituels de beauté naturels. Des plaines d'arganiers de la région du Souss-Massa à l'argile riche en minéraux des montagnes de l'Atlas, les soins de la peau marocains reposent sur des ingrédients naturels simples mais efficaces.",
+      "Le hammam marocain est l'un des meilleurs exemples de cette tradition. Une routine de hammam typique peut inclure du savon noir marocain pour le nettoyage, un gant Kessa pour l'exfoliation, de l'argile ghassoul pour purifier la peau, de l'eau de rose pour la fraîcheur et de l'huile d'argan pour la nutrition finale. Ce rituel complet a inspiré les passionnés de beauté et les marques de soins du monde entier.",
+      "Chez Moroccan Skincare, nous honorons cet héritage en proposant des produits qui reflètent l'authenticité, la qualité et la beauté naturelle. Nous nous concentrons sur des ingrédients porteurs d'une forte identité marocaine qui s'intègrent aussi bien dans les routines cosmétiques traditionnelles que modernes.",
+      "Notre approche d'approvisionnement valorise la traçabilité, les partenariats responsables et la coopération à long terme avec des producteurs de confiance et des réseaux d'approvisionnement locaux. En choisissant nos produits de soins marocains, vous choisissez plus que des ingrédients de beauté : vous choisissez une histoire de tradition, de la nature et du savoir-faire."
+    ],
+    "imageAlt": "Huile d'argan cosmétique marocaine artisanale et ingrédients naturels"
+  },
+  "featuredProducts": {
+    "badge": "Notre Catalogue Grossiste",
+    "title": "Nos Meilleures Ventes de Produits de Beauté Marocains",
+    "subtitle": "Ingrédients marocains authentiques, pressés à froid et récoltés de manière éthique, disponibles en vrac (de 1L à 1 000L) et en conditionnement sous marque blanche.",
+    "viewAll": "Voir Tous les Produits Grossiste",
+    "labels": {
+      "benefits": "Bienfaits :",
+      "bestFor": "Cible :",
+      "howToUse": "Application :",
+      "moq": "MOQ :",
+      "formats": "Conditionnements :"
+    },
+    "categories": {
+      "all": "Tous les Produits",
+      "oils": "Huiles Végétales Pures",
+      "hammam": "Hammam & Soins Lavants",
+      "powders": "Poudres Botaniques & Argiles"
+    },
+    "items": [
+      {
+        "category": "oils",
+        "title": "Huile d'Argan Bio Pure en Vrac (L'Or Liquide)",
+        "subtitle": "100% Pure Huile Vierge d'Argania Spinosa Pressée à Froid",
+        "description": "Huile d'argan marocaine certifiée biologique, riche en vitamine E et en acides gras essentiels (oméga 6 et 9). Nourrit intensément la barrière cutanée, fortifie la fibre capillaire et illumine le teint.",
+        "bestFor": "Soins anti-âge, sérums capillaires, huiles pour le corps, gammes marque blanche",
+        "formats": "Bidons de 1L, 5L, 25L, fûts de 200L ou flacons compte-gouttes personnalisés (30ml, 50ml)",
+        "moq": "Faible MOQ disponible",
+        "cta": "Devis Huile d'Argan",
+        "image": "/image/liquid-gold-argan-oil.webp",
+        "imageAlt": "Fournisseur huile d'argan bio marocaine en vrac",
+        "tag": "Bestseller • Biologique",
+        "slug": "organic-argan-oil"
+      },
+      {
+        "category": "hammam",
+        "title": "Savon Noir Marocain (Savon Beldi) en Gros",
+        "subtitle": "Pâte Exfoliante Traditionnelle de Hammam aux Olives Noires",
+        "description": "Savon noir 100% naturel à base d'huile d'olive saponifiée et de pulpe d'olive macérée. Prépare la peau au gommage profond, purifie les pores et laisse la peau satinée.",
+        "bestFor": "Spas, centres de bien-être, rituels de bain, coffrets hammam marque blanche",
+        "formats": "Seaux de 1kg, 5kg, 25kg ou pots personnalisés (200g, 250g, 500g)",
+        "moq": "Dès 10 kg en vrac / 50 pots OEM",
+        "cta": "Devis Savon Noir",
+        "image": "/image/traditional-black-soap.webp",
+        "imageAlt": "Fournisseur savon noir marocain beldi en gros",
+        "tag": "Rituel Spa • 100% Naturel",
+        "slug": "moroccan-black-soap"
+      },
+      {
+        "category": "oils",
+        "title": "Huile de Pépins de Figue de Barbarie Bio en Vrac",
+        "subtitle": "Élixir Anti-Âge Végétal Ultra-Précieux Pressé à Froid",
+        "description": "L'une des huiles végétales les plus rares et précieuses au monde. Exceptionnellement riche en vitamine E (plus de 1000 mg/kg) et en stérols pour lisser les ridules, estomper les cernes et raffermir la peau.",
+        "bestFor": "Sérums anti-âge d'exception, contour des yeux, régénération des peaux matures",
+        "formats": "500ml, 1L, 5L, 25L ou flacons compte-gouttes de luxe (15ml, 30ml)",
+        "moq": "Dès 500ml en vrac / 30 unités OEM",
+        "cta": "Devis Figue de Barbarie",
+        "image": "/image/organic-prickly-pear-seed-oil-elixir.webp",
+        "imageAlt": "Grossiste huile de pepins de figue de barbarie maroc en vrac",
+        "tag": "Ultra-Prestige • Anti-Âge",
+        "slug": "prickly-pear-seed-oil"
+      },
+      {
+        "category": "powders",
+        "title": "Poudre de Nila Bleue Marocaine Authentique en Gros",
+        "subtitle": "Extrait Botanique Saharien d'Indigofera Tinctoria Éclaircissant",
+        "description": "Secrète de beauté des femmes sahariennes, la véritable poudre de nila bleue est réputée pour éclaircir les taches pigmentaires, unifier le teint et purifier l'épiderme en douceur.",
+        "bestFor": "Masques éclaircissants pour le visage, gommages corporels, savons au nila",
+        "formats": "Sacs de 1kg, 5kg, 25kg ou pots cosmétiques personnalisés (50g, 100g, 200g)",
+        "moq": "Dès 5 kg en vrac / 50 pots OEM",
+        "cta": "Devis Poudre de Nila",
+        "image": "/image/blue-nila-powder.webp",
+        "imageAlt": "Fournisseur poudre de nila bleue marocaine en gros",
+        "tag": "Tendance Virale • Éclaircissant",
+        "slug": "blue-nila-powder"
+      },
+      {
+        "category": "powders",
+        "title": "Aker Fassi Marocain Naturel (Poudre de Coquelicot) en Gros",
+        "subtitle": "Pétales de Coquelicot Sauvage & Écorce de Grenade Séchés au Soleil",
+        "description": "Pigment traditionnel marocain broyé à la main, riche en antioxydants et flavonoïdes. Apporte un éclat rosé naturel et protège la peau contre le vieillissement cellulaire.",
+        "bestFor": "Teintures lèvres & joues naturelles, masques bonne mine, soins capillaires",
+        "formats": "500g, 1kg, 5kg ou coupelles en terre cuite / pots personnalisés",
+        "moq": "Dès 1 kg en vrac / 50 coupelles OEM",
+        "cta": "Devis Aker Fassi",
+        "image": "/image/aker-fassi-powder.webp",
+        "imageAlt": "Fournisseur aker fassi marocain naturel en gros",
+        "tag": "Pigment Naturel • Forte Demande",
+        "slug": "aker-fassi-powder"
+      },
+      {
+        "category": "powders",
+        "title": "Argile Ghassoul (Rhassoul) Marocaine Minérale en Vrac",
+        "subtitle": "Argile Minérale Smectique Purifiante des Montagnes de l'Atlas",
+        "description": "Extraite exclusivement de gisements de l'Atlas marocain, cette argile saponifère est naturellement gorgée de silice, magnésium et fer. Elle absorbe le sébum et les impuretés sans agresser la peau ni le cuir chevelu.",
+        "bestFor": "Masques purifiants visage, enveloppements corporels spa, shampooings naturels",
+        "formats": "Plaquettes brutes, poudre ultra-ventilée ou pâtes prêtes à l'emploi (5kg à 25kg)",
+        "moq": "Dès 25 kg en vrac / 50 pots OEM",
+        "cta": "Devis Ghassoul",
+        "image": "/image/moroccan-ghassoul-clay-powder.webp",
+        "imageAlt": "Fournisseur rhassoul ghassoul du maroc en vrac grossiste",
+        "tag": "Purifiant • Minéral de l'Atlas",
+        "slug": "moroccan-ghassoul-clay"
+      },
+      {
+        "category": "hammam",
+        "title": "Eau de Rose Marocaine Bio & Hydrolats en Gros",
+        "subtitle": "Pure Eau Florale de Rosa Damascena Distillée à Kelaat M'Gouna",
+        "description": "100% pure eau florale issue de la distillation des boutons de roses fraîches de la célèbre Vallée des Roses. Tonifie, régule le pH cutané, apaise les rougeurs et procure une fraîcheur inégalée.",
+        "bestFor": "Toniques visage, brumes rafraîchissantes, préparation de masques à l'argile",
+        "formats": "Bidons de 5L, 25L, fûts de 200L ou flacons spray brumisateurs (100ml, 200ml)",
+        "moq": "Dès 10L en vrac / 50 flacons OEM",
+        "cta": "Devis Eau de Rose",
+        "image": "/image/pure-natural-rose-water.webp",
+        "imageAlt": "Grossiste eau de rose marocaine bio en vrac",
+        "tag": "Apaisant • Distillation Pure",
+        "slug": "moroccan-rose-water"
+      },
+      {
+        "category": "hammam",
+        "title": "Gant de Kessa Exfoliant Traditionnel Marocain en Gros",
+        "subtitle": "Gant de Gommage Hammam en Crêpe de Haute Densité",
+        "description": "L'accessoire indispensable associé au Savon Noir Beldi. Fabriqué en crêpe granuleux professionnel pour éliminer les cellules mortes en profondeur, relancer la circulation et lisser le grain de peau.",
+        "bestFor": "Spas, centres thermaux, coffrets cadeaux hammam, vente au détail personnalisée",
+        "formats": "Lots de 100, 500, 1 000 pièces avec étiquette de marque personnalisée",
+        "moq": "Dès 100 unités avec logo",
+        "cta": "Devis Gant de Kessa",
+        "image": "/image/kessa-exfoliating-glove.webp",
+        "imageAlt": "Fournisseur gant kessa gommage marocain en gros",
+        "tag": "Accessoire Culte • Logo Personnalisé",
+        "slug": "kessa-exfoliating-glove"
+      }
+    ]
+  },
+  "whyUs": {
+    "badge": "Pourquoi Nous Choisir",
+    "title": "Pourquoi Choisir Moroccan Skincare ?",
+    "description1": "Choisir le bon fournisseur de soins marocains est important pour la qualité des produits, la satisfaction client et la réputation de votre marque. Chez Moroccan Skincare, nous nous concentrons sur un approvisionnement authentique, une communication professionnelle et des solutions flexibles pour les acheteurs au détail et en gros.",
+    "intro": "Les entreprises nous choisissent parce que nous offrons :",
+    "features": [
+      "Des produits de beauté marocains authentiques",
+      "Un approvisionnement en gros et en vrac",
+      "Des options de marque privée",
+      "Des ingrédients cosmétiques naturels",
+      "Des solutions adaptées à l'exportation",
+      "Un support pour la sélection des produits",
+      "Des options d'emballage flexibles",
+      "Une expertise en soins de la peau marocains",
+      "Des produits adaptés aux spas, détaillants et marques"
+    ],
+    "description2": "We understand that every business is different. Some clients need small wholesale quantities to test the market. Others need larger bulk orders, private label packaging, or export support. Our service is designed to adapt to each project."
+  },
+  "testimonials": {
+    "title": "Témoignages Clients Réels",
+    "items": [
+      {
+        "quote": "L'huile d'argan est vraiment premium — ma peau n'a jamais été aussi belle !",
+        "author": "Aya R."
+      },
+      {
+        "quote": "La collection savon noir et eau de rose est incroyable. Je recommande Moroccan Skincare.",
+        "author": "Samir K."
+      },
+      {
+        "quote": "Les commandes en gros sont arrivées rapidement, qualité constante. Parfait pour mon institut de beauté.",
+        "author": "Ahmed T."
+      }
+    ]
+  },
+  "sustainability": {
+    "title": "Durabilité et Beauté Éthique",
+    "paragraphs": [
+      "La beauté naturelle doit respecter les personnes et la nature. Moroccan Skincare s'engage pour un approvisionnement responsable et des relations à long terme avec des producteurs de confiance.",
+      "Nous apprécions les produits qui soutiennent le savoir-faire traditionnel marocain, les communautés locales et les pratiques de beauté responsables. Dans la mesure du possible, nous encourageons des solutions d'emballage pratiques, propres et adaptées aux attentes modernes en matière de durabilité.",
+      "Notre vision est de rendre la beauté marocaine accessible au monde tout en préservant l'authenticité et la valeur de ses ingrédients traditionnels."
+    ],
+    "imageAlt": "Boutons de rose et pétales marocains séchés naturellement pour des soins de la peau durables"
+  },
+  "productsPage": {
+    "metadata": {
+      "title": "Produits de Soins Marocains | Huiles Bio, Argiles, Savons & Poudres",
+      "description": "Découvrez notre gamme complète de produits de soins marocains bio : huile d'argan, savon noir, eau de rose, argile ghassoul, huile de figue de barbarie et poudres de beauté traditionnelles. Vente en gros et marque privée disponibles.",
+      "siteName": "Moroccan Skin Care",
+      "keywords": [
+        "produits soins marocains",
+        "huile argan bio",
+        "argile ghassoul",
+        "savon noir marocain",
+        "eau de rose grossiste",
+        "poudres beauté marocaines"
+      ]
+    },
+    "hero": {
+      "badge": "Nos Produits",
+      "title": "Produits de Soins Naturels",
+      "titleHighlight": "Marocains Authentiques",
+      "description": "Découvrez notre collection complète de produits de beauté marocains bio premium — de l'or liquide qu'est l'huile d'argan au savon noir traditionnel, en passant par l'argile ghassoul riche en minéraux et les poudres de beauté patrimoniales.",
+      "imageAlt": "Collection de produits cosmétiques marocains faits main"
+    },
+    "highlights": [
+      {
+        "title": "100% Bio",
+        "description": "Sourcés de manière éthique auprès de coopératives marocaines"
+      },
+      {
+        "title": "Qualité Certifiée",
+        "description": "ECOCERT, ISO 22716, FDS & COA inclus"
+      },
+      {
+        "title": "Prêt pour le Grossiste",
+        "description": "Approvisionnement en vrac et marque privée dès 5 L / 50 pcs"
+      }
+    ],
+    "catalog": {
+      "title": "Parcourir Notre Collection",
+      "description": "Filtrez par catégorie pour trouver le produit de soin marocain parfait pour vos besoins."
+    },
+    "categories": {
+      "all": "Tous",
+      "oils": "Huiles",
+      "soapsCleansers": "Savons & Nettoyants",
+      "watersToners": "Eaux & Toniques",
+      "claysMasks": "Argiles & Masques",
+      "powders": "Poudres"
+    },
+    "labels": {
+      "benefits": "Bénéfices :",
+      "bestFor": "Idéal pour :",
+      "howToUse": "Mode d'emploi :"
+    },
+    "items": [
+      {
+        "category": "oils",
+        "title": "Huile d'Argan Bio — Or Liquide pour la Peau & les Cheveux",
+        "description": "L'huile d'argan bio est l'une des huiles végétales les plus précieuses au monde. Riche en vitamine E, antioxydants et acides gras essentiels, elle nourrit profondément la peau, renforce les cheveux et aide à restaurer l'équilibre naturel de l'hydratation.",
+        "benefits": "Hydratation profonde, protection cutanée, soutien anti-âge",
+        "bestFor": "Peau sèche, pointes fourchues, teint terne",
+        "howToUse": "Appliquer quelques gouttes sur peau propre ou pointes des cheveux quotidiennement",
+        "cta": "Explorer l'Huile d'Argan",
+        "href": "https://www.moroccanorganica.com/",
+        "image": "/image/liquid-gold-argan-oil.webp",
+        "imageAlt": "Bouteille d'huile d'argan marocaine bio — or liquide pour peau et cheveux",
+        "slug": "organic-argan-oil"
+      },
+      {
+        "category": "oils",
+        "title": "Huile d'Argan Alimentaire",
+        "description": "Huile d'argan culinaire premium riche en acides gras essentiels et vitamine E. Sourcée de manière éthique auprès de coopératives marocaines pour le bien-être et la gastronomie.",
+        "benefits": "Riche en acides gras essentiels et vitamine E",
+        "bestFor": "Usage culinaire, bien-être, soutien cardiovasculaire",
+        "howToUse": "Consommer avec modération dans le cadre d'une alimentation saine",
+        "cta": "Acheter l'Huile d'Argan Alimentaire",
+        "href": "https://www.moroccanorganica.com/",
+        "image": "/image/organic-argan-oil-bulk-drums.webp",
+        "imageAlt": "Approvisionnement en vrac d'huile d'argan marocaine alimentaire",
+        "slug": "food-grade-argan-oil"
+      },
+      {
+        "category": "oils",
+        "title": "Huile de Pépins de Figue de Barbarie — Élixir Anti-Âge Premium",
+        "description": "L'huile de pépins de figue de barbarie est l'une des sources végétales les plus riches en vitamine E et antioxydants. Légère mais puissante, elle soutient la régénération cutanée, améliore l'élasticité et lisse les ridules.",
+        "benefits": "Anti-âge, régénérant, absorption rapide",
+        "bestFor": "Peau mature et sèche",
+        "howToUse": "Ajouter quelques gouttes à votre routine nocturne",
+        "cta": "Voir l'Huile de Figue de Barbarie",
+        "href": "https://www.moroccanorganica.com/",
+        "image": "/image/organic-prickly-pear-seed-oil-elixir.webp",
+        "imageAlt": "Huile de pépins de figue de barbarie marocaine premium anti-âge",
+        "slug": "prickly-pear-seed-oil"
+      },
+      {
+        "category": "oils",
+        "title": "Huile de Jojoba Bio",
+        "description": "L'huile de jojoba légère imite le sébum naturel de la peau. Idéale pour équilibrer la production de sébum tout en offrant une hydratation profonde et non grasse.",
+        "benefits": "Équilibre le sébum, hydrate, apaise les irritations",
+        "bestFor": "Tous types de peau, peau sensible et acnéique",
+        "howToUse": "Appliquer quelques gouttes sur le visage ou mélanger à votre crème quotidienne",
+        "cta": "Découvrir l'Huile de Jojoba",
+        "href": "https://www.moroccanorganica.com/",
+        "image": "/image/organic-jojoba-oil.webp",
+        "imageAlt": "Huile de jojoba marocaine bio pour peau et cheveux",
+        "slug": "organic-jojoba-oil"
+      },
+      {
+        "category": "soapsCleansers",
+        "title": "Savon Noir Marocain — Rituel de Nettoyage Traditionnel",
+        "description": "Le savon noir marocain, aussi appelé Savon Beldi, est un exfoliant naturel à base d'olives broyées enrichi en minéraux. Il élimine en douceur les cellules mortes tout en nettoyant les impuretés.",
+        "benefits": "Nettoyage profond, exfoliation, texture améliorée",
+        "bestFor": "Tous types de peau, surtout peau rugueuse ou congestionnée",
+        "howToUse": "Appliquer sous la douche avec un gant ou un linge exfoliant",
+        "cta": "Acheter le Savon Noir",
+        "href": "https://www.moroccanorganica.com/",
+        "image": "/image/traditional-black-soap.webp",
+        "imageAlt": "Savon noir marocain traditionnel pour exfoliation au hammam",
+        "slug": "moroccan-black-soap"
+      },
+      {
+        "category": "soapsCleansers",
+        "title": "Savon Beldi à l'Huile d'Olive",
+        "description": "Savon beldi authentique enrichi à l'huile d'olive pure pour une expérience hammam luxueuse. Nettoie en profondeur tout en laissant la peau veloutée.",
+        "benefits": "Nettoyage doux, nutrition, adoucissement",
+        "bestFor": "Peau normale à sèche, rituels hammam",
+        "howToUse": "Masser sur peau humide avec un gant kessa, puis rincer",
+        "cta": "Acheter le Savon Beldi",
+        "href": "https://www.moroccanorganica.com/",
+        "image": "/image/beldi-soap-olive-oil.webp",
+        "imageAlt": "Savon beldi marocain à l'huile d'olive",
+        "slug": "moroccan-black-soap"
+      },
+      {
+        "category": "watersToners",
+        "title": "Eau de Rose — Hydratation Pure & Rajeunissement",
+        "description": "Distillée à partir de roses marocaines, notre eau de rose offre une hydratation apaisante, des propriétés calmantes et un arôme rafraîchissant. Parfaite comme tonique doux, brume faciale ou fixateur de maquillage.",
+        "benefits": "Apaise les irritations, resserre les pores, ajoute de l'éclat",
+        "bestFor": "Peau sensible et normale",
+        "howToUse": "Vaporiser sur le visage après le nettoyage ou à tout moment pour se rafraîchir",
+        "cta": "Découvrir l'Eau de Rose",
+        "href": "https://www.moroccanorganica.com/",
+        "image": "/image/pure-natural-rose-water.webp",
+        "imageAlt": "Eau de rose marocaine pure naturelle tonique et brume faciale",
+        "slug": "moroccan-rose-water"
+      },
+      {
+        "category": "claysMasks",
+        "title": "Argile Ghassoul — Argile Purifiante Riche en Minéraux",
+        "description": "Provenant des montagnes de l'Atlas, l'argile ghassoul est un détoxifiant naturel qui absorbe l'excès de sébum, élimine les impuretés et revitalise la peau.",
+        "benefits": "Détoxifie, nettoie, resserre les pores",
+        "bestFor": "Peau grasse / mixte",
+        "howToUse": "Mélanger avec de l'eau ou de l'eau de rose en pâte, appliquer 10–15 minutes",
+        "cta": "Essayer l'Argile Ghassoul",
+        "href": "https://www.moroccanorganica.com/",
+        "image": "/image/moroccan-ghassoul-clay-powder.webp",
+        "imageAlt": "Argile ghassoul marocaine riche en minéraux des montagnes de l'Atlas",
+        "slug": "moroccan-ghassoul-clay"
+      },
+      {
+        "category": "claysMasks",
+        "title": "Masque Visage Rhassoul Rose",
+        "description": "Un mélange prêt à l'emploi d'argile rhassoul et de rose pour un soin visage de qualité spa. Purifie les pores tout en apportant une hydratation apaisante.",
+        "benefits": "Purifie, hydrate, illumine le teint",
+        "bestFor": "Peau mixte et terne",
+        "howToUse": "Appliquer uniformément sur visage propre, laisser 10–15 minutes, rincer",
+        "cta": "Acheter le Masque Rose",
+        "href": "https://www.moroccanorganica.com/",
+        "image": "/image/rhassoul-rose-face-mask.webp",
+        "imageAlt": "Masque visage argile rhassoul et rose marocain",
+        "slug": "moroccan-ghassoul-clay"
+      },
+      {
+        "category": "powders",
+        "title": "Poudre Nila / Masque",
+        "description": "La poudre nila marocaine traditionnelle illumine le teint naturellement tout en détoxifiant et en restaurant un éclat doux et radieux.",
+        "benefits": "Illumine le teint, détoxifie, exfolie",
+        "bestFor": "Teint terne ou irrégulier",
+        "howToUse": "Mélanger avec de l'eau de rose en pâte, appliquer 10–15 minutes",
+        "cta": "Acheter la Poudre Nila",
+        "href": "https://www.moroccanorganica.com/",
+        "image": "/image/moroccan-blue-nila-raw-powder.webp",
+        "imageAlt": "Poudre nila marocaine pour masque éclaircissant",
+        "slug": "blue-nila-powder"
+      },
+      {
+        "category": "powders",
+        "title": "Poudre Aker Fassi / Masque",
+        "description": "Masque de beauté marocain traditionnel à base de pavot et de grenade. Réduit les rougeurs et soutient l'hydratation et l'éclat naturel.",
+        "benefits": "Réduit les rougeurs, hydrate, ajoute de l'éclat",
+        "bestFor": "Peau sensible et irritée",
+        "howToUse": "Mélanger avec de l'eau de rose, appliquer en masque 10–15 minutes",
+        "cta": "Acheter Aker Fassi",
+        "href": "https://www.moroccanorganica.com/",
+        "image": "/image/aker-fassi-powder.webp",
+        "imageAlt": "Poudre aker fassi marocaine masque de beauté",
+        "slug": "aker-fassi-powder"
+      },
+      {
+        "category": "powders",
+        "title": "Poudre Tbrima",
+        "description": "Exfolie et renouvelle la peau en douceur, améliorant la douceur et la clarté. Parfaite pour les soins spa ou les masques à domicile.",
+        "benefits": "Exfoliation douce, douceur, clarté",
+        "bestFor": "Peau rugueuse ou congestionnée",
+        "howToUse": "Mélanger avec de l'eau ou de l'eau de rose, appliquer en masque hebdomadaire",
+        "cta": "Acheter la Poudre Tbrima",
+        "href": "https://www.moroccanorganica.com/",
+        "image": "/image/moroccan-tabrima-herbal-powder.webp",
+        "imageAlt": "Poudre tbrima marocaine pour exfoliation cutanée",
+        "slug": "tbrima-powder"
+      },
+      {
+        "category": "powders",
+        "title": "Poudre Sidr",
+        "description": "La poudre sidr naturelle renforce les cheveux et soutient la santé du cuir chevelu. Également utilisée comme nettoyant doux pour la peau et les cheveux.",
+        "benefits": "Renforce les cheveux, santé du cuir chevelu, nettoyage naturel",
+        "bestFor": "Soins capillaires, traitements du cuir chevelu",
+        "howToUse": "Mélanger avec de l'eau en pâte pour application cheveux ou peau",
+        "cta": "Acheter la Poudre Sidr",
+        "href": "https://www.moroccanorganica.com/",
+        "image": "/image/moroccan-sidr-leaf-powder.webp",
+        "imageAlt": "Poudre sidr marocaine pour soins capillaires et cuir chevelu",
+        "slug": "sidr-powder"
+      }
+    ],
+    "cta": {
+      "title": "Besoin de Volumes ou de Marque Privée ?",
+      "description": "MOQ dès 5 L / 50 pcs par produit. Branding personnalisé, expédition mondiale et certifications complètes incluses.",
+      "privateLabel": "Solutions Marque Privée",
+      "requestQuote": "Demander un Devis",
+      "imageAlt": "Ingrédients naturels marocains pour grossiste et marque privée"
+    }
+  },
+  "privateLabelPage": {
+    "metadata": {
+      "title": "Solutions Marque Privée & Marque Blanche | Moroccan Skincare",
+      "description": "Lancez votre marque avec les produits marque privée Moroccan Skincare. Huile d'argan bio, savon noir, eau de rose, argile ghassoul — branding personnalisé, certifié, MOQ dès 5L/50 pcs. Expédition mondiale.",
+      "siteName": "Moroccan Skin Care",
+      "keywords": [
+        "marque privée soins marocains",
+        "marque blanche cosmétiques Maroc",
+        "huile argan branding personnalisé",
+        "savon noir marque privée",
+        "grossiste beauté marocaine"
+      ]
+    },
+    "hero": {
+      "badge": "Marque Privée",
+      "title": "Marque Privée &",
+      "titleHighlight": "Solutions Marque Blanche Moroccan Skincare",
+      "description": "Boostez votre marque avec les produits Marque Privée Moroccan Skincare. Proposez de l'huile d'argan bio premium, du savon noir, de l'eau de rose, de l'argile ghassoul et d'autres produits de beauté naturels marocains sous votre propre marque, étiquette et logo.",
+      "cta": "Demandez Votre Devis Marque Privée",
+      "imageAlt": "Solutions d'emballage marque privée et marque blanche soins marocains",
+      "platforms": [
+        "TikTok Shop",
+        "Amazon",
+        "Etsy",
+        "Instagram",
+        "Spa",
+        "Magasins de Détail"
+      ]
+    },
+    "orderInfo": {
+      "title": "Informations Emballage & Commande",
+      "supplyInfo": [
+        {
+          "label": "Capacité d'Approvisionnement",
+          "value": "20 000 litres par semaine"
+        },
+        {
+          "label": "Type d'Approvisionnement",
+          "value": "OBM (Original Brand Manufacturing)"
+        },
+        {
+          "label": "Certification",
+          "value": "MSDS, COA, CCPB, Programme NOP USDA, ECOCERT, ISO 22716:2007, ONSSA"
+        },
+        {
+          "label": "Quantité Minimum de Commande (MOQ)",
+          "value": "5 L / 50 pcs par produit"
+        }
+      ],
+      "highlights": [
+        "Livré avec votre étiquette, marque et logo",
+        "Prix incluant le produit prêt à la vente sur toutes les plateformes"
+      ],
+      "shipping": {
+        "title": "Expédition",
+        "items": [
+          "Mondial",
+          "FedEx porte-à-porte pour petites commandes",
+          "Fret maritime pour grandes quantités"
+        ]
+      },
+      "packaging": {
+        "title": "Options d'Emballage",
+        "items": [
+          "Emballage en vrac & personnalisé disponible",
+          "Marque Privée / Marque Blanche / Marque Blanche"
+        ]
+      },
+      "sideImageAlt": "Produits marque privée huile d'argan cosmétique marocaine branding personnalisé"
+    },
+    "whyChoose": {
+      "title": "Pourquoi Choisir Moroccan Skincare pour la Marque Privée",
+      "items": [
+        {
+          "title": "Qualité Premium",
+          "points": [
+            "Tous les produits sont fabriqués à partir d'ingrédients marocains 100% bio, sourcés de manière éthique auprès de coopératives.",
+            "Chaque lot est testé pour la qualité et accompagné de certifications complètes (MSDS, COA, ECOCERT, normes ISO)."
+          ]
+        },
+        {
+          "title": "Approvisionnement Flexible",
+          "points": [
+            "Une capacité de 20 000 litres/semaine vous permet de développer votre marque rapidement.",
+            "MOQ à partir de 5 L / 50 pcs facilite le démarrage pour les petites marques."
+          ]
+        },
+        {
+          "title": "Produits Prêts à Vendre",
+          "points": [
+            "Chaque produit est personnalisé avec votre logo et étiquette.",
+            "Livré prêt à la vente sur eCommerce, TikTok Shop, Amazon, Etsy, Instagram, spas ou magasins de détail."
+          ]
+        },
+        {
+          "title": "Emballage Personnalisé",
+          "points": [
+            "Solutions d'emballage en vrac & personnalisé",
+            "Options marque privée / marque blanche pour votre identité de marque",
+            "Possibilité de choisir le style d'étiquette, le design et les éléments de branding"
+          ]
+        },
+        {
+          "title": "Expédition Mondiale",
+          "points": [
+            "Livraison mondiale via FedEx ou Fret",
+            "Expédition porte-à-porte fiable et traçable"
+          ]
+        }
+      ]
+    },
+    "howToOrder": {
+      "title": "Comment Commander",
+      "steps": [
+        {
+          "step": "01",
+          "title": "Sélectionnez vos produits",
+          "description": "Huile d'Argan, Savon Noir, Eau de Rose, Argile Ghassoul, Huile de Figue de Barbarie, etc."
+        },
+        {
+          "step": "02",
+          "title": "Soumettez votre marque & étiquette",
+          "description": "Téléchargez votre logo et vos préférences de design."
+        },
+        {
+          "step": "03",
+          "title": "Confirmez votre MOQ",
+          "description": "Commande minimum 5 L / 50 pcs par produit."
+        },
+        {
+          "step": "04",
+          "title": "Recevez votre produit prêt à vendre",
+          "description": "Emballé avec votre marque et certifications incluses."
+        }
+      ],
+      "cta": "Demandez Votre Devis Marque Privée"
+    },
+    "certifications": {
+      "title": "Certifications & Conformité",
+      "intro": "Tous les produits marque privée Moroccan Skincare incluent :",
+      "items": [
+        {
+          "title": "MSDS & COA",
+          "description": "Fiche de Données de Sécurité & Certificat d'Analyse"
+        },
+        {
+          "title": "CCPB & NOP USDA",
+          "description": "Certification bio pour les marchés mondiaux"
+        },
+        {
+          "title": "ECOCERT & ISO 22716:2007",
+          "description": "Bonnes Pratiques de Fabrication"
+        },
+        {
+          "title": "ONSSA",
+          "description": "Conformité réglementaire marocaine"
+        }
+      ],
+      "closing": "Cela garantit que vos produits sont prêts pour la vente internationale sur toute plateforme.",
+      "badge": "ECOCERT · ISO 22716 · ONSSA",
+      "imageAlt": "Huile d'argan marocaine en vrac certifiée pour export marque privée"
+    }
+  },
+  "blogPage": {
+    "metadata": {
+      "title": "Découvrez les Soins Naturels Marocains & Conseils Beauté | Blog Moroccan Skincare",
+      "description": "Explorez les bienfaits, usages et conseils des produits de soins naturels marocains : Huile d'Argan, Savon Noir, Eau de Rose, Argile Ghassoul, Huile de Figue de Barbarie et masques traditionnels marocains.",
+      "siteName": "Moroccan Skin Care",
+      "keywords": [
+        "blog soins marocains",
+        "bienfaits huile argan",
+        "conseils argile ghassoul",
+        "routine beauté marocaine",
+        "savon noir hammam",
+        "soins naturels Maroc"
+      ]
+    },
+    "hero": {
+      "badge": "Blog",
+      "title": "Soins Naturels Marocains :",
+      "titleHighlight": "Tradition, Bienfaits & Conseils Beauté",
+      "description": "Les soins naturels marocains ont gagné une reconnaissance mondiale pour leurs ingrédients beauté efficaces, bio et culturellement riches. De l'huile d'argan à l'argile ghassoul, explorez l'histoire, les avantages et les usages pratiques pour une peau radieuse et saine.",
+      "tags": [
+        "Huile d'Argan",
+        "Argile Ghassoul",
+        "Eau de Rose",
+        "Savon Noir"
+      ],
+      "cta": "Explorer les Produits",
+      "imageAlt": "Eau de rose et argile ghassoul marocaines — essentiels soins naturels",
+      "featuredTopics": {
+        "label": "Sujets Vedettes",
+        "text": "Rituels hammam · Huiles bio · Masques naturels"
+      }
+    },
+    "history": {
+      "title": "La Riche Histoire des Traditions Beauté Marocaines",
+      "description": "Le Maroc est un centre de rituels beauté depuis des siècles. Les femmes marocaines traditionnelles ont longtemps compté sur des ingrédients naturels locaux pour prendre soin de leur peau et cheveux. Le rituel du hammam, l'huile d'argan, l'argile ghassoul et diverses poudres comme Aker Fassi et Nila se transmettent de génération en génération.",
+      "highlights": [
+        {
+          "title": "Huile d'Argan",
+          "description": "Connue comme \"l'or liquide\", utilisée à la fois en cuisine et en cosmétique."
+        },
+        {
+          "title": "Savon Noir & Savons Naturels",
+          "description": "Essentiels pour le nettoyage profond et l'exfoliation au hammam."
+        },
+        {
+          "title": "Eau de Rose & Argile Ghassoul",
+          "description": "Améliorent l'hydratation, apaisent la peau et purifient."
+        }
+      ],
+      "imageAlt": "Masque visage argile rhassoul et rose marocain traditionnel"
+    },
+    "products": {
+      "title": "Meilleurs Produits de Soins Marocains et Leurs Bienfaits",
+      "items": [
+        {
+          "title": "Huile d'Argan Cosmétique",
+          "image": "/image/liquid-gold-argan-oil.webp",
+          "benefits": [
+            "Hydrate profondément et soutient l'élasticité cutanée",
+            "Réduit les ridules et signes de vieillissement",
+            "Renforce les cheveux et améliore la brillance"
+          ]
+        },
+        {
+          "title": "Huile d'Argan Alimentaire",
+          "image": "/image/organic-argan-oil-bulk-drums.webp",
+          "benefits": [
+            "Riche en acides gras essentiels et vitamine E",
+            "Soutient la santé cardiovasculaire et le bien-être",
+            "Peut être consommée avec modération dans une alimentation saine"
+          ]
+        },
+        {
+          "title": "Huile de Pépins de Figue de Barbarie",
+          "image": "/image/organic-prickly-pear-seed-oil-elixir.webp",
+          "benefits": [
+            "Anti-âge et riche en antioxydants",
+            "Réduit l'inflammation et favorise la régénération cutanée",
+            "Légère, idéale pour peau sensible"
+          ]
+        },
+        {
+          "title": "Savon Noir & Savon Naturel",
+          "image": "/image/traditional-black-soap.webp",
+          "benefits": [
+            "Nettoie en profondeur sans dessécher",
+            "Élimine les cellules mortes et débouche les pores",
+            "Laisse la peau lisse et rafraîchie"
+          ]
+        },
+        {
+          "title": "Argile Ghassoul",
+          "image": "/image/moroccan-ghassoul-clay-powder.webp",
+          "benefits": [
+            "Détoxifie et absorbe l'excès de sébum",
+            "Resserre les pores et revitalise la peau",
+            "Convient aux masques, soins capillaires et enveloppements"
+          ]
+        },
+        {
+          "title": "Poudre Nila / Masque",
+          "image": "/image/moroccan-blue-nila-raw-powder.webp",
+          "benefits": [
+            "Illumine le teint naturellement",
+            "Détoxifie et exfolie",
+            "Restaure douceur et éclat"
+          ]
+        },
+        {
+          "title": "Poudre Aker Fassi / Masque",
+          "image": "/image/aker-fassi-powder.webp",
+          "benefits": [
+            "Masque de beauté marocain traditionnel",
+            "Réduit rougeurs et irritations",
+            "Soutient hydratation et éclat naturel"
+          ]
+        },
+        {
+          "title": "Poudre Tbrima",
+          "image": "/image/moroccan-tabrima-herbal-powder.webp",
+          "benefits": [
+            "Exfolie et renouvelle la peau en douceur",
+            "Améliore douceur et clarté",
+            "Parfaite pour soins spa ou masques maison"
+          ]
+        },
+        {
+          "title": "Poudre Sidr",
+          "image": "/image/moroccan-sidr-leaf-powder.webp",
+          "benefits": [
+            "Renforce les cheveux et soutient le cuir chevelu",
+            "Nettoyage naturel peau et cheveux",
+            "Améliore brillance et texture"
+          ]
+        }
+      ]
+    },
+    "routine": {
+      "title": "Comment Intégrer les Soins Marocains à Votre Routine",
+      "steps": [
+        {
+          "step": "Étape 1",
+          "title": "Choisissez le bon produit pour votre type de peau",
+          "items": [
+            "Peau sèche : Huile d'Argan Cosmétique, Eau de Rose",
+            "Peau grasse : Argile Ghassoul, Savon Noir",
+            "Peau sensible : Huile Figue de Barbarie, Masque Aker Fassi"
+          ]
+        },
+        {
+          "step": "Étape 2",
+          "title": "Utilisez des masques naturels 1–2 fois par semaine",
+          "items": [
+            "Mélangez argile ghassoul ou poudre nila avec eau de rose",
+            "Appliquez 10–15 minutes et rincez à l'eau tiède"
+          ]
+        },
+        {
+          "step": "Étape 3",
+          "title": "Hydratez quotidiennement",
+          "items": [
+            "Appliquez huile d'argan ou figue de barbarie sur peau propre",
+            "Les huiles légères absorbent vite et ne bouchent pas les pores"
+          ]
+        },
+        {
+          "step": "Étape 4",
+          "title": "Combinez avec un mode de vie sain",
+          "items": [
+            "Hydratation, alimentation équilibrée et protection solaire",
+            "Les soins marocains fonctionnent mieux avec une routine régulière"
+          ]
+        }
+      ]
+    },
+    "wellness": {
+      "title": "Bienfaits Au-Delà de la Peau",
+      "intro": "Les soins marocains ne concernent pas seulement la beauté ; ils offrent des bienfaits globaux :",
+      "benefits": [
+        "Ingrédients riches en antioxydants protègent contre les radicaux libres",
+        "Propriétés anti-inflammatoires apaisent les affections cutanées",
+        "Huiles naturelles bénéfiques pour cheveux et ongles",
+        "Ingrédients sourcés éthiquement soutiennent les communautés marocaines"
+      ],
+      "imageAlt": "Bourgeons et pétales de rose marocains séchés pour soins naturels"
+    },
+    "whyChoose": {
+      "title": "Pourquoi Choisir les Produits Moroccan Skincare",
+      "items": [
+        {
+          "title": "Authentique & Bio",
+          "description": "Tous les ingrédients sont certifiés et sourcés éthiquement"
+        },
+        {
+          "title": "Qualité Certifiée",
+          "description": "MSDS, COA, ECOCERT, ISO 22716:2007"
+        },
+        {
+          "title": "Approvisionnement Flexible",
+          "description": "Disponible en détail, gros et marque privée"
+        },
+        {
+          "title": "Pratiques Durables",
+          "description": "Emballage écologique et commerce équitable"
+        },
+        {
+          "title": "Usage Polyvalent",
+          "description": "Produits adaptés maison, spa ou usage commercial"
+        }
+      ]
+    },
+    "testimonials": {
+      "title": "Témoignages Clients",
+      "items": [
+        {
+          "quote": "L'huile d'argan de Moroccan Skincare a complètement transformé ma peau. Plus douce, radieuse et nourrie.",
+          "author": "Aya R."
+        },
+        {
+          "quote": "La collection savon noir et eau de rose est incroyable. Je l'utilise quotidiennement avec des résultats visibles.",
+          "author": "Samir K."
+        },
+        {
+          "quote": "Nous avons lancé notre marque privée avec les huiles et poudres Moroccan Skincare — excellente qualité et livraison rapide.",
+          "author": "Ahmed T."
+        }
+      ]
+    },
+    "conclusion": {
+      "title": "Conclusion – Commencez Votre Parcours Soins Marocains Aujourd'hui",
+      "description": "Les soins marocains offrent des solutions beauté naturelles intemporelles, alliant tradition et besoins modernes. Des huiles nourrissantes aux argiles détoxifiantes, chaque produit est conçu pour sublimer peau, cheveux et bien-être. Explorez notre gamme et vivez la beauté marocaine authentique chez vous ou pour votre entreprise.",
+      "shopProducts": "Acheter les Produits",
+      "privateLabelQuote": "Demander un Devis Marque Privée"
+    }
+  },
+  "aboutPage": {
+    "metadata": {
+      "title": "À Propos | Moroccan Skincare — Notre Histoire & Mission",
+      "description": "Découvrez Moroccan Skincare : produits de beauté bio authentiques sourcés auprès de coopératives marocaines. Approvisionnement éthique, qualité bio certifiée et solutions grossiste.",
+      "siteName": "Moroccan Skin Care",
+      "keywords": [
+        "à propos soins marocains",
+        "entreprise beauté Maroc",
+        "soins bio Maroc",
+        "coopératives sourcing éthique",
+        "fabricant soins marocains"
+      ]
+    },
+    "hero": {
+      "badge": "À Propos",
+      "title": "À Propos de Moroccan Skincare —",
+      "titleHighlight": "Notre Histoire",
+      "description": "Chez Moroccan Skincare, nous apportons la sagesse beauté marocaine centenaire au monde moderne. Notre mission est de fournir des produits de soins bio authentiques qui nourrissent, protègent et rajeunissent la peau naturellement. Chaque produit est élaboré avec de l'huile d'argan pure, du savon noir, de l'eau de rose et de l'argile ghassoul, sourcés éthiquement auprès de coopératives marocaines.",
+      "committedLabel": "Nous nous engageons à :",
+      "imageAlt": "Huile d'argan marocaine et ingrédients soins naturels des coopératives locales",
+      "commitments": [
+        {
+          "title": "Durabilité",
+          "description": "Soutenir les communautés locales et la production éthique"
+        },
+        {
+          "title": "Pureté",
+          "description": "Offrir des ingrédients bio certifiés sans produits chimiques"
+        },
+        {
+          "title": "Innovation & Tradition",
+          "description": "Allier rituels beauté traditionnels et science moderne"
+        }
+      ]
+    },
+    "mission": {
+      "title": "Notre Mission",
+      "description": "Fournir des produits de beauté naturels marocains de haute qualité aux particuliers et entreprises du monde entier, en respectant le patrimoine culturel et la responsabilité environnementale."
+    },
+    "whyChoose": {
+      "title": "Pourquoi Nous Choisir",
+      "items": [
+        {
+          "title": "Approvisionnement Éthique",
+          "description": "Directement auprès de coopératives marocaines de confiance"
+        },
+        {
+          "title": "Qualité Premium",
+          "description": "Normes strictes de certification bio"
+        },
+        {
+          "title": "Grossiste & Marque Privée",
+          "description": "Solutions flexibles pour marques, spas et détaillants"
+        },
+        {
+          "title": "Satisfaction Client",
+          "description": "Développement produit guidé par les retours clients"
+        }
+      ]
+    },
+    "cta": {
+      "title": "Prêt à Devenir Notre Partenaire ?",
+      "description": "Découvrez nos produits de soins marocains bio premium ou explorez nos solutions grossiste et marque privée.",
+      "exploreProducts": "Explorer les Produits",
+      "contactUs": "Nous Contacter",
+      "imageAlt": "Produits cosmétiques marocains faits main"
+    }
+  },
+  "contactPage": {
+    "metadata": {
+      "title": "Contact Moroccan Skincare | Support Client & Demandes Grossiste",
+      "description": "Contactez Moroccan Skincare pour questions produits, commandes grossiste, demandes marque privée ou questions générales. Email, téléphone, WhatsApp ou formulaire en ligne.",
+      "siteName": "Moroccan Skin Care",
+      "keywords": [
+        "contact soins marocains",
+        "demande grossiste Maroc",
+        "contact marque privée",
+        "support Moroccan skincare",
+        "contact cosmétiques B2B"
+      ]
+    },
+    "hero": {
+      "badge": "Contact",
+      "title": "Contactez Moroccan Skincare",
+      "description": "Des questions ou envie de commencer votre parcours soins marocains ? Client retail, acheteur grossiste ou partenaire marque privée — nous sommes là pour vous aider. Contactez-nous via l'un des canaux ci-dessous, notre équipe répondra rapidement."
+    },
+    "info": {
+      "title": "Informations de Contact",
+      "email": {
+        "title": "Email",
+        "customerSupport": "Support Client :",
+        "wholesalePrivateLabel": "Grossiste & Marque Privée :"
+      },
+      "phone": {
+        "title": "Téléphone / WhatsApp",
+        "whatsapp": "Discuter sur WhatsApp"
+      },
+      "address": {
+        "title": "Adresse",
+        "lines": [
+          "Moroccan Skincare HQ",
+          "Lot 377 N° 3/6 Sidi Ghanem",
+          "Zone industriel, 40110",
+          "Marrakech, Maroc"
+        ]
+      },
+      "hours": {
+        "title": "Heures d'Ouverture",
+        "items": [
+          "Lundi – Vendredi : 9h00 – 18h00 (GMT+1)",
+          "Samedi : 10h00 – 14h00",
+          "Dimanche : Fermé"
+        ]
+      }
+    },
+    "form": {
+      "title": "Formulaire de Contact en Ligne",
+      "description": "Remplissez le formulaire ci-dessous et nous vous répondrons sous 24–48 heures :",
+      "name": "Nom",
+      "email": "Email",
+      "phone": "Téléphone",
+      "phoneOptional": "(optionnel)",
+      "subject": "Sujet",
+      "message": "Message",
+      "placeholders": {
+        "name": "Votre nom complet",
+        "email": "vous@exemple.com",
+        "phone": "+212 6XX XXX XXX",
+        "message": "Dites-nous comment nous pouvons vous aider..."
+      },
+      "subjects": [
+        {
+          "value": "general",
+          "label": "Demande Générale"
+        },
+        {
+          "value": "product",
+          "label": "Info Produit"
+        },
+        {
+          "value": "wholesale",
+          "label": "Grossiste"
+        },
+        {
+          "value": "privateLabel",
+          "label": "Marque Privée"
+        }
+      ],
+      "submit": "Envoyer le Message",
+      "toastSuccess": "Ouverture de votre client email...",
+      "toastDescription": "Nous vous répondrons sous 24–48 heures."
+    },
+    "wholesale": {
+      "title": "Demandes Grossiste & Marque Privée",
+      "intro": "Pour commandes en volume ou marque privée :",
+      "points": [
+        "Commande minimum : 5 L / 50 pcs",
+        "Branding personnalisé disponible",
+        "Expédition mondiale via FedEx ou Fret"
+      ],
+      "requestQuote": "Demander un Devis",
+      "directTitle": "Préférez une conversation directe ?",
+      "directDescription": "Notre équipe B2B est disponible sur WhatsApp pour tarifs grossiste, MOQ et consultations marque privée.",
+      "whatsapp": "Discuter sur WhatsApp"
+    },
+    "social": {
+      "title": "Réseaux Sociaux & Canaux en Ligne",
+      "description": "Restez connecté pour actualités, conseils et promotions :",
+      "channels": [
+        {
+          "name": "Instagram",
+          "handle": "@moroccanorganic"
+        },
+        {
+          "name": "Facebook",
+          "handle": "Moroccan Organica Official"
+        },
+        {
+          "name": "TikTok Shop",
+          "handle": "@moroccanorganica"
+        }
+      ]
+    }
+  },
+  "footer": {
+    "about": "Fabricant de soins marocains et grossiste en produits cosmétiques naturels pour marchés bulk, marque privée et export.",
+    "quickLinks": "Liens Rapides",
+    "shippingPartners": "Partenaires Livraison",
+    "paymentMethods": "Moyens de Paiement",
+    "contactUs": "Contactez-Nous",
+    "copyright": "© 2026 Organica Group. Tous droits réservés.",
+    "logoAlt": "Moroccan Skin Care - Fabricant cosmétique naturel et grossiste",
+    "links": {
+      "home": "Accueil",
+      "privateLabel": "Marque Privée",
+      "about": "À Propos",
+      "blog": "Blog",
+      "products": "Nos Produits",
+      "whyUs": "Pourquoi Nous",
+      "contact": "Contact"
+    }
+  },
+  "wholesaleSection": {
+    "title": "Soins Marocains en Gros pour Détaillants et Marques",
+    "description": "Sur moroccanskincare.com, nous soutenons les entreprises à la recherche de solutions fiables de vente en gros de soins marocains. Nos produits conviennent aux boutiques de beauté, boutiques en ligne, spas, salons, distributeurs, hôtels, marques de bien-être et entreprises de cosmétiques. Nous pouvons vous aider à vous approvisionner en produits de beauté marocains en gros ou en vrac, selon vos besoins.",
+    "subtitle": "Les options de vente en gros peuvent inclure :",
+    "items": [
+      "Huile d'argan",
+      "Savon noir marocain",
+      "Argile ghassoul",
+      "Eau de rose",
+      "Eau de fleur d'oranger",
+      "Huile de pépins de figue de barbarie",
+      "Kits de hammam",
+      "Produits de soin du corps",
+      "Huiles capillaires",
+      "Produits de soins en marque privée"
+    ],
+    "closing": "Notre objectif est d'aider les entreprises à créer de belles collections de beauté marocaines avec des produits authentiques et un soutien professionnel."
+  },
+  "privateLabelSection": {
+    "title": "Cosmétiques Marocains en Marque Privée",
+    "description": "Si vous souhaitez créer votre propre marque de beauté, notre service de marque privée peut vous aider à lancer des produits de soins marocains sous votre nom de marque. La marque privée est idéale pour les entrepreneurs, les vendeurs en e-commerce, les spas, les salons, les détaillants et les distributeurs qui souhaitent des produits de beauté professionnels sans gérer seuls chaque étape d'approvisionnement. Vous pouvez créer une gamme complète de soins marocains en utilisant des produits tels que l'huile d'argan, le savon noir, l'argile ghassoul, l'eau de rose, l'huile de pépins de figue de barbarie, des coffrets hammam et des huiles corporelles. Selon le produit et la quantité commandée, les options de marque privée peuvent inclure la sélection des emballages, le support d'étiquetage, les combinaisons de produits et la préparation pour la vente en gros.",
+    "routineTitle": "Une gamme solide de marque privée peut inclure :",
+    "routineSteps": [
+      "Le savon noir marocain pour le nettoyage",
+      "Le gant Kessa pour l'exfoliation",
+      "L'argile ghassoul pour le masque de soin",
+      "L'eau de rose comme tonique",
+      "L'huile d'argan pour la nutrition finale"
+    ],
+    "routineClosing": "Cela crée une routine de soins complète que les clients peuvent facilement comprendre et utiliser."
+  },
+  "buildCollection": {
+    "title": "Créez Votre Collection de Beauté Marocaine",
+    "description": "Les produits de soins marocains sont puissants car ils offrent plus que de simples ingrédients. Ils offrent un rituel de beauté complet, une histoire culturelle et une routine naturelle auxquelles les clients peuvent facilement s'identifier. Que vous soyez détaillant, propriétaire de spa, distributeur, vendeur en e-commerce ou entrepreneur en beauté, Moroccan Skincare peut vous aider à créer une collection authentique, professionnelle et prête pour le marché. De l'huile d'argan au savon noir, en passant par l'argile ghassoul et l'huile de pépins de figue de barbarie, nos produits sont sélectionnés pour vous aider à bâtir une offre solide de beauté naturelle.",
+    "conclusionTitle": "Conclusion",
+    "conclusionDescription": "Les soins bio marocains continuent de séduire les clients du monde entier car ils allient tradition, simplicité et beauté naturelle. Avec des produits comme l'huile d'argan, le savon noir marocain, l'eau de rose, l'argile ghassoul et l'huile de pépins de figue de barbarie, votre marque peut offrir une expérience de soin complète inspirée des rituels de beauté les plus fiables du Maroc. Sur moroccanskincare.com, nous fournissons des produits de beauté naturels marocains pour les particuliers, les détaillants, les marques, les spas et les acheteurs en gros. Que vous ayez besoin de produits de détail, d'ingrédients en vrac, de cosmétiques en marque privée ou de solutions d'exportation, nous sommes prêts à soutenir votre projet."
+  },
+  "faqSection": {
+    "badge": "Réponses Claires pour Professionnels",
+    "title": "Questions Fréquentes pour Votre Entreprise",
+    "subtitle": "Tout ce que vous devez savoir sur nos commandes de gros, la fabrication en marque blanche, l'expédition et les documents d'exportation.",
+    "items": [
+      {
+        "q": "Quelles sont vos Quantités Minimales de Commande (MOQ) en gros et marque blanche ?",
+        "a": "Nous proposons des MOQ très souples pour accompagner aussi bien les jeunes marques que les distributeurs établis. Pour les huiles en vrac et ingrédients bruts (Argan, Figue de barbarie, Savon noir), les commandes débutent dès 5 litres/kilos. Pour la marque blanche avec votre logo et packaging sur mesure, nos minimums commencent à seulement 50 à 100 unités par produit."
+      },
+      {
+        "q": "Pouvons-nous commander un kit d'échantillons avant de valider une commande de volume ?",
+        "a": "Oui, absolument ! Nous encourageons tous nos futurs partenaires à tester la pureté et la texture de nos produits. Nous proposons des kits d'échantillons personnalisables livrés dans le monde entier via DHL Express sous 3 à 5 jours ouvrés."
+      },
+      {
+        "q": "Quelles certifications et documents d'exportation fournissez-vous ?",
+        "a": "Chaque expédition est accompagnée de l'ensemble des documents réglementaires : Certificat d'Analyse (COA) précisant le profil d'acides gras et les tests microbiologiques, Fiche de Données de Sécurité (MSDS), Certificat d'Origine et certificats phytosanitaires pour un dédouanement sans encombre en Europe, aux USA et dans les pays du Golfe."
+      },
+      {
+        "q": "Comment fonctionne le processus de création en Marque Blanche (OEM) ?",
+        "a": "Notre service clé en main comprend 5 étapes : 1) Sélection des formules et ingrédients ; 2) Choix des flacons, pots ou flacons compte-gouttes ; 3) Création ou intégration de votre étiquette conforme aux normes cosmétiques internationales ; 4) Fabrication et contrôles qualité ; 5) Expédition sécurisée jusqu'à vos entrepôts."
+      },
+      {
+        "q": "Quels sont les délais de livraison à l'international et quels transporteurs utilisez-vous ?",
+        "a": "Pour les envois express par avion (échantillons et commandes de moins de 100 kg), nous collaborons avec DHL Express et FedEx pour une livraison en 3 à 5 jours ouvrés. Pour les commandes industrielles (de 100 kg à plusieurs tonnes), nous organisons le fret aérien ou maritime (conteneurs complets ou groupage) vers tous les ports majeurs."
+      },
+      {
+        "q": "Quels modes et conditions de paiement acceptez-vous pour les commandes B2B ?",
+        "a": "Nous acceptons les virements bancaires internationaux (SWIFT / TT), les lettres de crédit (L/C) pour les volumes importants, ainsi que les paiements sécurisés par carte bancaire pour les échantillons. Des facilités d'échelonnement peuvent être accordées aux comptes réguliers."
+      }
+    ]
+  },
+  "ctaSection": {
+    "badge": "Prêt à Développer Votre Marque ?",
+    "title": "Prêt à Lancer Votre Commande Grossiste ou Votre Marque Blanche ?",
+    "description": "Travaillez directement avec un fabricant marocain authentique. Profitez de tarifs compétitifs, de solutions sur mesure et recevez vos échantillons directement chez vous.",
+    "buttonText": "Demander un Devis & Catalogue Grossiste",
+    "whatsappText": "Échanger Directement sur WhatsApp",
+    "guarantee": "✓ Réponse express sous 12h • Échantillons disponibles sur demande"
+  },
+  "leadGenModal": {
+    "title": "Soins Marocains Premium en Gros",
+    "subtitle": "Fabricant • Grossiste • Exportateur",
+    "features": [
+      "Huiles d'Argan Pure & de Pépins de Figue de Barbarie",
+      "Ingrédients en Vrac & Produits Finis",
+      "Solutions Marque Privée Complètes (OEM/ODM)",
+      "Export Mondial & Certifié ISO/GMP"
+    ],
+    "cta": "Obtenir des Échantillons Gratuits via WhatsApp"
+  },
+  "moroccanEssentials": {
+    "badge": "Guide d'Autorité & Ingrédients",
+    "title": "Les Essentiels de la Beauté Marocaine Bio pour les Marques Mondiales",
+    "subtitle": "Pourquoi les spas les plus prestigieux et les marques de cosmétique propre s'approvisionnent directement au Maroc.",
+    "articles": [
+      {
+        "title": "Pourquoi les Spas & Cliniques Esthétiques Font Confiance au Rituel du Hammam",
+        "description": "Le rituel du hammam marocain procure un renouvellement cellulaire incomparable. La synergie du Savon Beldi saponifié à l'huile d'olive, du gant de Kessa et du Ghassoul de l'Atlas assure une détoxification transdermique profonde et prépare la barrière cutanée à assimiler les actifs végétaux."
+      },
+      {
+        "title": "L'Huile d'Argan Pressée à Froid : L'Étalon-Or de la Nutrition Cutanée et Capillaire",
+        "description": "Véritable or liquide, l'huile d'argan cosmétique pure renferme une richesse exceptionnelle en acides gras essentiels (oléique et linoléique) et deux fois plus de vitamine E que l'huile d'olive. Elle restaure le film hydrolipidique et répare la peau sans obstruer les pores."
+      },
+      {
+        "title": "Nila Bleu & Aker Fassi : Les Joyaux Sahariens pour une Beauté Éthique et Éclatante",
+        "description": "Les marques de clean beauty remplacent les colorants synthétiques et les agents éclaircissants agressifs par des alternatives végétales ancestrales. La Nila Bleue unifie naturellement le teint, tandis que l'Aker Fassi (coquelicot et grenade) offre une protection antioxydante remarquable et un éclat rosé naturel."
+      },
+      {
+        "title": "Coopératives Féminines, Éthique Éco-responsable et Conformité aux Normes d'Exportation",
+        "description": "Notre chaîne d'approvisionnement soutient directement les coopératives de femmes du sud-ouest marocain, garantissant un commerce équitable et des standards stricts ISO 22716. Chaque lot est accompagné de certificats d'analyse (COA) et de fiches de sécurité (MSDS) pour une importation fluide."
+      }
+    ]
+  }
+}

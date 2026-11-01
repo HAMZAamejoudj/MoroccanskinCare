@@ -1,0 +1,46 @@
+MOROCCAN SKINCARE — cPanel upload checklist
+============================================
+
+IMPORTANT: You must have folder "next" (NOT "_next") at site root.
+
+After upload, in File Manager you should see:
+  next/          <-- CSS and JS live here
+  en/ fr/ ar/
+  assets/ image/
+  index.html
+  .htaccess
+
+NOT "_next/" — that folder breaks design on many hosts.
+
+UPLOAD STEPS
+------------
+1. File Manager → moroccanskincare.com
+2. Select ALL files/folders EXCEPT moroccan-skin-care-cpanel.zip
+3. Delete (or move to backup folder)
+4. Upload moroccan-skin-care-cpanel.zip
+5. Extract here (same folder as index.html)
+6. Delete the zip after extract
+
+QUICK FIX (if you only rename, without new zip)
+-----------------------------------------------
+1. Rename folder "_next" → "next"
+2. Update .htaccess (add rules from project public/.htaccess)
+3. Hard refresh: Ctrl + Shift + R
+
+TEST (important — read carefully)
+---------------------------------
+WRONG (will show 404 — normal, folders are not browsable):
+  https://www.moroccanskincare.com/_next/static/chunks/
+  https://www.moroccanskincare.com/next/static/chunks/
+
+RIGHT (open ONE real file from File Manager → next/static/chunks/):
+  https://www.moroccanskincare.com/next/static/chunks/01d65388ced95ab6.css
+  (filename changes after each build — use the .css file you see on disk)
+
+Then open:
+  https://www.moroccanskincare.com/en/
+
+.htaccess: copy ALL of public/CPANEL-htaccess-FULL.txt
+Do NOT paste only RewriteRule lines at line 1 without "RewriteEngine On".
+
+If design still broken: F12 → Network → filter "css" → red = file missing.

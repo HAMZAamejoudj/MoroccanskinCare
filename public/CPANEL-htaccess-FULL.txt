@@ -1,0 +1,72 @@
+# === COPY ALL LINES BELOW into moroccanskincare.com/.htaccess ===
+# Do NOT put RewriteRule lines alone at the top without RewriteEngine On
+
+# MIME types
+<IfModule mod_mime.c>
+  AddType text/css .css
+  AddType application/javascript .js
+  AddType application/json .json
+  AddType font/woff2 .woff2
+</IfModule>
+
+# Compression
+<IfModule mod_deflate.c>
+  AddOutputFilterByType DEFLATE text/css text/html text/javascript application/javascript application/json image/svg+xml
+</IfModule>
+
+# Caching
+<IfModule mod_expires.c>
+  ExpiresActive On
+  ExpiresByType image/webp "access plus 1 year"
+  ExpiresByType image/png "access plus 1 year"
+  ExpiresByType text/css "access plus 1 year"
+  ExpiresByType application/javascript "access plus 1 year"
+  ExpiresByType font/woff2 "access plus 1 year"
+  ExpiresDefault "access plus 2 days"
+</IfModule>
+
+# Security headers
+<IfModule mod_headers.c>
+  Header set X-Content-Type-Options "nosniff"
+  Header set X-Frame-Options "SAMEORIGIN"
+  Header set Referrer-Policy "strict-origin-when-cross-origin"
+</IfModule>
+
+# Rewrites
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+
+  # CSS/JS/images — do not redirect these
+  RewriteRule ^next/ - [L]
+  RewriteRule ^assets/ - [L]
+  RewriteRule ^image/ - [L]
+  RewriteRule ^favicon\.ico$ - [L]
+  # Old HTML still using /_next/ paths
+  RewriteRule ^_next/(.*)$ /next/$1 [L]
+
+  # SSL validation (AutoSSL / Let's Encrypt) — must not redirect
+  RewriteRule ^\.well-known/ - [L]
+
+  # www
+  RewriteCond %{HTTPS} off [OR]
+  RewriteCond %{HTTP_HOST} !^www\.moroccanskincare\.com$ [NC]
+  RewriteRule ^(.*)$ https://www.moroccanskincare.com/$1 [R=301,L]
+
+  # Home -> canonical English homepage (HTTP 301)
+  RewriteRule ^$ /en/moroccan-organic-skincare/ [R=301,L]
+
+  # Locale roots -> full homepage
+  RewriteRule ^en/?$ /en/moroccan-organic-skincare/ [R=301,L]
+  RewriteRule ^fr/?$ /fr/moroccan-organic-skincare/ [R=301,L]
+  RewriteRule ^ar/?$ /ar/moroccan-organic-skincare/ [R=301,L]
+
+  # Legacy paths without locale
+  RewriteRule ^moroccan-organic-skincare/?$ /en/moroccan-organic-skincare/ [R=301,L]
+  RewriteRule ^about/?$ /en/about/ [R=301,L]
+  RewriteRule ^blog/?$ /en/blog/ [R=301,L]
+  RewriteRule ^contact/?$ /en/contact/ [R=301,L]
+  RewriteRule ^products/?$ /en/products/ [R=301,L]
+  RewriteRule ^private-label/?$ /en/private-label/ [R=301,L]
+</IfModule>
+
+ErrorDocument 404 /404.html
