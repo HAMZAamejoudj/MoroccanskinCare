@@ -89,10 +89,10 @@ const ServicesGrid = () => {
                 <service.icon className="h-7 w-7" strokeWidth={1.75} />
               </div>
 
-              {/* Title as an H3 */}
-              <h3 className="text-xl font-bold text-foreground mb-3 leading-snug group-hover:text-primary transition-colors duration-200">
+              {/* Title */}
+              <p className="text-xl font-bold text-foreground mb-3 leading-snug group-hover:text-primary transition-colors duration-200">
                 {service.title}
-              </h3>
+              </p>
 
               {/* Description */}
               <p className="text-muted-foreground text-sm leading-relaxed flex-1">

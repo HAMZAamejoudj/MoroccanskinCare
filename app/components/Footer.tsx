@@ -181,7 +181,7 @@ const Footer = () => {
                   rel="noopener noreferrer"
                   className="text-background/70 hover:text-background transition-colors duration-200 text-sm"
                 >
-                  {dict.header.whatsapp}
+                  {(f as any).whatsappCta || "24/7 Wholesale WhatsApp Support"}
                 </a>
               </li>
               <li className="flex items-center gap-3">

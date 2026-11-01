@@ -38,9 +38,9 @@ const WhyUs = () => {
 
             {/* Right Col: Features checklist */}
             <div className="lg:col-span-6 bg-white rounded-3xl p-8 border border-border shadow-sm">
-              <h3 className="text-lg font-bold text-foreground mb-6">
+              <p className="text-lg font-bold text-foreground mb-6">
                 {why.intro}
-              </h3>
+              </p>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
                 {why.features.map((feature: string) => (
                   <div key={feature} className="flex items-start gap-3">

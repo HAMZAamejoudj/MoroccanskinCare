@@ -1068,14 +1068,15 @@
     "copyright": "© 2026 Organica Group. All rights reserved.",
     "logoAlt": "Moroccan Skin Care - Natural cosmetic manufacturer and wholesale supplier",
     "links": {
-      "home": "Home",
-      "privateLabel": "Private Label",
-      "about": "About Us",
-      "blog": "Blog",
-      "products": "Our Products",
-      "whyUs": "Why Choose Us",
-      "contact": "Contact"
-    }
+      "home": "Home Overview",
+      "privateLabel": "Private Label & OEM Solutions",
+      "about": "Our Story & Co-op Sourcing",
+      "blog": "Guides & Skincare Blog",
+      "products": "Full Wholesale Catalog",
+      "whyUs": "Why Choose Moroccan Skincare",
+      "contact": "Contact & Request Quote"
+    },
+    "whatsappCta": "24/7 Wholesale WhatsApp Support"
   },
   "wholesaleSection": {
     "title": "Wholesale Moroccan Skincare for Retailers and Brands",
@@ -1093,7 +1094,8 @@
       "Haircare oils",
       "Private label skincare products"
     ],
-    "closing": "Our goal is to help businesses build attractive Moroccan beauty collections with authentic products and professional support."
+    "closing": "Our goal is to help businesses build attractive Moroccan beauty collections with authentic products and professional support.",
+    "whatsappCta": "Inquire About Wholesale on WhatsApp"
   },
   "privateLabelSection": {
     "title": "Private Label Moroccan Cosmetics",
@@ -1150,7 +1152,7 @@
     "title": "Ready to Start Your Wholesale Order or Launch Your Private Label?",
     "description": "Partner directly with an authentic Moroccan manufacturer. Get competitive wholesale pricing, custom formulation options, and sample kits delivered right to your door.",
     "buttonText": "Request Wholesale Catalog & Quote",
-    "whatsappText": "Chat Instantly on WhatsApp",
+    "whatsappText": "Chat with Export Sales on WhatsApp",
     "guarantee": "✓ Fast Worldwide Response within 12 Hours • Free Sample Kits Available"
   },
   "leadGenModal": {

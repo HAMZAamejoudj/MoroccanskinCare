@@ -31,9 +31,9 @@ const PrivateLabelSection = () => {
         </div>
 
         <div className="bg-white rounded-3xl p-8 md:p-12 border border-border shadow-sm">
-          <h3 className="text-xl font-bold text-foreground mb-8 text-center md:text-left">
+          <p className="text-xl font-bold text-foreground mb-8 text-center md:text-left">
             {pl.routineTitle}
-          </h3>
+          </p>
 
           {/* Stepper timeline */}
           <div className="grid grid-cols-1 md:grid-cols-5 gap-6 md:gap-4 relative">

@@ -1065,14 +1065,15 @@
     "copyright": "© 2026 Organica Group. Tous droits réservés.",
     "logoAlt": "Moroccan Skin Care - Fabricant cosmétique naturel et grossiste",
     "links": {
-      "home": "Accueil",
-      "privateLabel": "Marque Privée",
-      "about": "À Propos",
-      "blog": "Blog",
-      "products": "Nos Produits",
-      "whyUs": "Pourquoi Nous",
-      "contact": "Contact"
-    }
+      "home": "Accueil Moroccan Skincare",
+      "privateLabel": "Marque Blanche & Solutions OEM",
+      "about": "Notre Histoire & Coopératives",
+      "blog": "Guides & Blog Cosmétique",
+      "products": "Catalogue Complet en Vrac",
+      "whyUs": "Pourquoi Choisir Notre Maison",
+      "contact": "Contact & Demande de Devis"
+    },
+    "whatsappCta": "Assistance Grossiste sur WhatsApp 24/7"
   },
   "wholesaleSection": {
     "title": "Soins Marocains en Gros pour Détaillants et Marques",
@@ -1090,7 +1091,8 @@
       "Huiles capillaires",
       "Produits de soins en marque privée"
     ],
-    "closing": "Notre objectif est d'aider les entreprises à créer de belles collections de beauté marocaines avec des produits authentiques et un soutien professionnel."
+    "closing": "Notre objectif est d'aider les entreprises à créer de belles collections de beauté marocaines avec des produits authentiques et un soutien professionnel.",
+    "whatsappCta": "Demander les Tarifs Grossiste sur WhatsApp"
   },
   "privateLabelSection": {
     "title": "Cosmétiques Marocains en Marque Privée",
@@ -1147,7 +1149,7 @@
     "title": "Prêt à Lancer Votre Commande Grossiste ou Votre Marque Blanche ?",
     "description": "Travaillez directement avec un fabricant marocain authentique. Profitez de tarifs compétitifs, de solutions sur mesure et recevez vos échantillons directement chez vous.",
     "buttonText": "Demander un Devis & Catalogue Grossiste",
-    "whatsappText": "Échanger Directement sur WhatsApp",
+    "whatsappText": "Échanger avec le Service Export sur WhatsApp",
     "guarantee": "✓ Réponse express sous 12h • Échantillons disponibles sur demande"
   },
   "leadGenModal": {

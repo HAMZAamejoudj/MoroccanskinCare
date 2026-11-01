@@ -59,9 +59,9 @@ const TrustBar = () => {
           {/* Header pill */}
           <div className="flex items-center gap-3 mb-10">
             <div className="h-px w-10 bg-primary/30" />
-            <h2 className="text-[11px] font-bold text-primary uppercase tracking-[0.25em]">
+            <span className="text-[11px] font-bold text-primary uppercase tracking-[0.25em]">
               {t.trustBar?.badge || "Certified Quality & Export Compliance"}
-            </h2>
+            </span>
             <div className="h-px w-10 bg-primary/30" />
           </div>
 

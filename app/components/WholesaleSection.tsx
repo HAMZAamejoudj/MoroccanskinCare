@@ -35,7 +35,7 @@ const WholesaleSection = () => {
               <Link href={whatsappUrl} target="_blank" rel="noopener noreferrer">
                 <Button variant="moroccan" size="lg" className="rounded-lg">
                   <WhatsAppIcon className="h-5 w-5 mr-2" />
-                  {t.header.whatsapp || "Contact Wholesale"}
+                  {(w as any).whatsappCta || t.header.whatsapp || "Inquire About Wholesale on WhatsApp"}
                 </Button>
               </Link>
               <Link href={`/${locale}/contact/`}>
@@ -49,9 +49,9 @@ const WholesaleSection = () => {
 
           <div className="bg-white rounded-2xl border border-border/80 shadow-md p-8 relative overflow-hidden">
             <div className="absolute top-0 right-0 w-32 h-32 bg-primary/5 rounded-full -mr-16 -mt-16" />
-            <h3 className="text-lg font-bold text-foreground mb-6 relative z-10">
+            <p className="text-lg font-bold text-foreground mb-6 relative z-10">
               {w.subtitle}
-            </h3>
+            </p>
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
               {w.items.map((item: string) => (
                 <div 

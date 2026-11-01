@@ -19,9 +19,9 @@ const BuildCollectionSection = () => {
             <div className="inline-flex items-center justify-center w-12 h-12 rounded-xl bg-primary/10 text-primary mb-6">
               <Factory className="h-6 w-6" strokeWidth={2} />
             </div>
-            <h3 className="text-2xl font-bold text-foreground mb-4">
+            <h2 className="text-2xl sm:text-3xl font-bold text-foreground mb-4">
               {bc.title}
-            </h3>
+            </h2>
             <p className="text-muted-foreground leading-relaxed text-base">
               {bc.description}
             </p>
@@ -33,9 +33,9 @@ const BuildCollectionSection = () => {
             <div className="inline-flex items-center justify-center w-12 h-12 rounded-xl bg-primary/10 text-primary mb-6">
               <Award className="h-6 w-6" strokeWidth={2} />
             </div>
-            <h3 className="text-2xl font-bold text-foreground mb-4">
+            <p className="text-2xl font-bold text-foreground mb-4">
               {bc.conclusionTitle}
-            </h3>
+            </p>
             <p className="text-muted-foreground leading-relaxed text-base">
               {bc.conclusionDescription}
             </p>
