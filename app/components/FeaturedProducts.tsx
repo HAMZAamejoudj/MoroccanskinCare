@@ -120,19 +120,19 @@ const FeaturedProducts = () => {
                     {product.bestFor && (
                       <div className="flex items-start gap-1.5">
                         <Shield className="w-3.5 h-3.5 text-primary shrink-0 mt-0.5" />
-                        <span className="line-clamp-1"><strong>{fp.labels?.bestFor || "Target:"}</strong> {product.bestFor}</span>
+                        <span className="line-clamp-1"><span className="font-semibold text-foreground">{fp.labels?.bestFor || "Target:"}</span> {product.bestFor}</span>
                       </div>
                     )}
                     {product.formats && (
                       <div className="flex items-start gap-1.5">
                         <Layers className="w-3.5 h-3.5 text-primary shrink-0 mt-0.5" />
-                        <span className="line-clamp-1"><strong>{fp.labels?.formats || "Formats:"}</strong> {product.formats}</span>
+                        <span className="line-clamp-1"><span className="font-semibold text-foreground">{fp.labels?.formats || "Formats:"}</span> {product.formats}</span>
                       </div>
                     )}
                     {product.moq && (
                       <div className="flex items-start gap-1.5">
                         <PackageCheck className="w-3.5 h-3.5 text-emerald-600 shrink-0 mt-0.5" />
-                        <span className="line-clamp-1 text-emerald-700 font-semibold"><strong>{fp.labels?.moq || "MOQ:"}</strong> {product.moq}</span>
+                        <span className="line-clamp-1 text-emerald-700 font-semibold"><span className="font-semibold text-emerald-800">{fp.labels?.moq || "MOQ:"}</span> {product.moq}</span>
                       </div>
                     )}
                   </div>

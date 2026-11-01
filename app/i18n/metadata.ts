@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import type { Locale } from "./config";
-import { locales } from "./config";
+import { defaultLocale, locales } from "./config";
 import { getDictionary } from "./get-dictionary";
 import { SITE_URL } from "@/lib/site";
 
@@ -36,7 +36,7 @@ function buildLocaleMetadata(
         ...Object.fromEntries(
           locales.map((loc) => [loc, `${siteUrl}/${loc}${pathWithoutLocale}`])
         ),
-        "x-default": `${siteUrl}/en${pathWithoutLocale}`,
+        "x-default": pathWithoutLocale === "/" ? `${siteUrl}/` : `${siteUrl}/en${pathWithoutLocale}`,
       },
     },
     openGraph: {
@@ -60,6 +60,27 @@ function buildLocaleMetadata(
       title: meta.title,
       description: meta.description,
       images: [`${siteUrl}/assets/favicon/og-image.png`],
+    },
+  };
+}
+
+export function buildRootMetadata(): Metadata {
+  const dict = getDictionary(defaultLocale);
+  const base = buildLocaleMetadata(defaultLocale, dict.metadata, "/");
+  return {
+    ...base,
+    alternates: {
+      canonical: `${siteUrl}/`,
+      languages: {
+        "x-default": `${siteUrl}/`,
+        en: `${siteUrl}/`,
+        fr: `${siteUrl}/fr/`,
+        ar: `${siteUrl}/ar/`,
+      },
+    },
+    openGraph: {
+      ...base.openGraph,
+      url: `${siteUrl}/`,
     },
   };
 }
