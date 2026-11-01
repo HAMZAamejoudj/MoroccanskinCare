@@ -1,4 +1,4 @@
-export const SITE_URL = "https://www.moroccanskincare.com";
+export const SITE_URL = "https://moroccanskincare.com";
 
 export const ORG_ID = `${SITE_URL}/#organization`;
 export const WEBSITE_ID = `${SITE_URL}/#website`;

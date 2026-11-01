@@ -52,7 +52,7 @@ const FAQSection = () => {
                     onClick={() => toggleFAQ(index)}
                     aria-expanded={isOpen}
                   >
-                    <span className="leading-snug">{item.q}</span>
+                    <h3 className="leading-snug font-semibold text-foreground text-base sm:text-lg m-0">{item.q}</h3>
                     <span className={`shrink-0 w-8 h-8 rounded-full flex items-center justify-center transition-colors duration-200 ${
                       isOpen ? "bg-primary text-white" : "bg-primary/10 text-primary"
                     }`}>

@@ -83,10 +83,10 @@
   # SSL validation (AutoSSL / Let's Encrypt) — must not redirect
   RewriteRule ^\.well-known/ - [L]
 
-  # Force HTTPS + canonical www host (matches SITE_URL)
+  # Force HTTPS + canonical non-www host (matches SITE_URL)
   RewriteCond %{HTTPS} off [OR]
-  RewriteCond %{HTTP_HOST} !^www\.moroccanskincare\.com$ [NC]
-  RewriteRule ^(.*)$ https://www.moroccanskincare.com/$1 [R=301,L]
+  RewriteCond %{HTTP_HOST} ^www\.moroccanskincare\.com$ [NC]
+  RewriteRule ^(.*)$ https://moroccanskincare.com/$1 [R=301,L]
 
   # Homepage -> canonical English homepage (HTTP 301, not meta refresh)
   RewriteRule ^$ /en/moroccan-organic-skincare/ [R=301,L]

@@ -59,9 +59,9 @@ const TrustBar = () => {
           {/* Header pill */}
           <div className="flex items-center gap-3 mb-10">
             <div className="h-px w-10 bg-primary/30" />
-            <span className="text-[11px] font-bold text-primary uppercase tracking-[0.25em]">
+            <h2 className="text-[11px] font-bold text-primary uppercase tracking-[0.25em]">
               {t.trustBar?.badge || "Certified Quality & Export Compliance"}
-            </span>
+            </h2>
             <div className="h-px w-10 bg-primary/30" />
           </div>
 
@@ -85,9 +85,9 @@ const TrustBar = () => {
                 </div>
 
                 {/* Text Label */}
-                <h3 className="text-xs sm:text-sm font-bold text-foreground group-hover:text-primary transition-colors leading-snug tracking-tight">
+                <p className="text-xs sm:text-sm font-bold text-foreground group-hover:text-primary transition-colors leading-snug tracking-tight">
                   {certs[cert.key] || cert.key}
-                </h3>
+                </p>
               </article>
             ))}
           </div>

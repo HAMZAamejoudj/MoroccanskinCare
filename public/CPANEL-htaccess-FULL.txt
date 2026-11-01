@@ -49,8 +49,8 @@
 
   # www
   RewriteCond %{HTTPS} off [OR]
-  RewriteCond %{HTTP_HOST} !^www\.moroccanskincare\.com$ [NC]
-  RewriteRule ^(.*)$ https://www.moroccanskincare.com/$1 [R=301,L]
+  RewriteCond %{HTTP_HOST} ^www\.moroccanskincare\.com$ [NC]
+  RewriteRule ^(.*)$ https://moroccanskincare.com/$1 [R=301,L]
 
   # Home -> canonical English homepage (HTTP 301)
   RewriteRule ^$ /en/moroccan-organic-skincare/ [R=301,L]

@@ -47,7 +47,7 @@ function buildLocaleMetadata(
       locale: locale === "ar" ? "ar_MA" : locale === "fr" ? "fr_FR" : "en_US",
       images: [
         {
-          url: "/assets/favicon/og-image.png",
+          url: `${siteUrl}/assets/favicon/og-image.png`,
           width: 1200,
           height: 630,
           alt: meta.siteName,
@@ -59,7 +59,7 @@ function buildLocaleMetadata(
       card: "summary_large_image",
       title: meta.title,
       description: meta.description,
-      images: ["/assets/favicon/og-image.png"],
+      images: [`${siteUrl}/assets/favicon/og-image.png`],
     },
   };
 }
